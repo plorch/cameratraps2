@@ -11,5 +11,11 @@ READMEtasks.txt
     * In Sublime Text highlight site number and `Ctl D` enough times to highlight all you want to change then type new number
   * If there are multiple images remove date information from name but add image number (to match with what is in field notes) and add secondary links for additional images
   * Use 'No Image' if none exists
+  * Move all .jpg files out of numbered folder into reservation folder
+    * I have been doing this by hand, since I could not get the os.walk script I tested to work
+    * Open a file explorer of the reservation subdirectory
+    * Open command window to same place
+      * use `move 1203\1203.JPG .` to move up (using tab to autocomplete)
+    * delete directories after checking that you have not left anything inside them
   * Check to see that all .pdf files in folder are linked to
   * Add secondary links for cases where there are two .pdf files (where Sarah redid a plot?)
