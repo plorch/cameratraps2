@@ -19,3 +19,4 @@ READMEtasks.txt
     * delete directories after checking that you have not left anything inside them
   * Check to see that all .pdf files in folder are linked to
   * Add secondary links for cases where there are two .pdf files (where Sarah redid a plot?)
+  * Check to see that folder names used in 2012PCAP_Plot_Pictures match folder names (remove spaces from folder names, etc.)
