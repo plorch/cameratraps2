@@ -17,6 +17,6 @@ READMEtasks.txt
     * Open command window to same place
       * use `move 1203\1203.JPG .` to move up (using tab to autocomplete)
     * delete directories after checking that you have not left anything inside them
-  * Check to see that all .pdf files in folder are linked to
+  * Check to see that all .pdf files in folder are linked to group2011.html
   * Add secondary links for cases where there are two .pdf files (where Sarah redid a plot?)
   * Check to see that folder names used in 2012PCAP_Plot_Pictures match folder names (remove spaces from folder names, etc.)
